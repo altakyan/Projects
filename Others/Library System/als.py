@@ -12,7 +12,7 @@ import pymysql
 connect = pymysql.connect(
     host='localhost',
     user='root',
-    passwd='alistair00',
+    passwd='',
     db='library',
     charset='utf8'
 )
