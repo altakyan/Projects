@@ -17,3 +17,9 @@ Currently, there's no access to the company data, so images of the dashboard can
 **Web Scraping RPA**
 
 Small projects using rpa package in Python to automate web scraping of data and logging in to websites.
+
+**Others**
+
+Library System 
+
+A library system application prototype developed using the tkinter in python, where people can borrow, return and reserve books, as well as other features. Database of the library is stored using SQL and connected to the system via the pymysql package
