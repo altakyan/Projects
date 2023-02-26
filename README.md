@@ -23,3 +23,7 @@ Small projects using rpa package in Python to automate web scraping of data and 
 Library System 
 
 A library system application prototype developed using the tkinter in python, where people can borrow, return and reserve books, as well as other features. Database of the library is stored using SQL and connected to the system via the pymysql package
+
+Database Design
+
+Constructed a database design based on an online booking system we hope to implement on the TeoHeng website in a school project
